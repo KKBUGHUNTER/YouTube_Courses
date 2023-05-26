@@ -1,4 +1,4 @@
-Creating a comprehensive Flutter course spanning 60 days is an ambitious undertaking.
+## Creating a comprehensive Flutter course spanning 60 days is an ambitious undertaking.
 Day 1: Introduction to Flutter and Dart
 - Overview of Flutter framework
 - Installation and setup
